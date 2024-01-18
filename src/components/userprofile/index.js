@@ -2,6 +2,7 @@ let a=10;
 let b=20;
 let Hello=345;
 let bing="Hey"
+let bing2="Hello how are you"
 const Userprofile=(props)=>{
     console.log(props)
     const {details}=props;
