@@ -1,3 +1,5 @@
+let a=10;
+let b=20;
 let Hello=345;
 const Userprofile=(props)=>{
     console.log(props)
